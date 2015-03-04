@@ -27,7 +27,7 @@ if pip_version >= (1, 5):
 
 setup(
     name='helga-giphy',
-    version='0.1.0',
+    version='0.1.1',
     description="A command plugin to search giphy for an anmiated gif.",
     classifiers=[
         'Development Status :: 4 - Beta',
